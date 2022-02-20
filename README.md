@@ -8,6 +8,6 @@ Contact.php: It consist code of contact us page.
 About.php   : It consist code of abouts us page.
 
 CSS Files::
-bootstrap.css, dec1321.css, style2.css are css files that I used to make the site.
+bootstrap.css and style.css are css files that I used to make the site.
 
 img Folder consist all images, svg's and logos used in site

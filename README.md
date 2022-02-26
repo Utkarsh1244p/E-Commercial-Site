@@ -1,5 +1,5 @@
 # E-Commercial-Site
-This is e-commerce site.In which I used Html, CSS, PHP langueges and CSS framework known as bootstrap .It is very simple looking website consisting 4 pages ie Home, Product, About Us, Contact Us and one login modal.This website consist of links which can direct you to facebook, instagram and linkden pages of 1stop.1stop is a platform where you can learn new courses and if you submit your project, then you can get 2 months of intership.
+This is e-commerce site.In which I used Html, CSS, PHP langueges and CSS framework known as bootstrap .It is very simple looking website consisting 4 pages ie Home, Product, About Us, Contact Us and one login modal.This website consist of links which can direct you to facebook, instagram and linkden pages of 1stop brand.
 
 Html Files::
 Home.php : It consist code of home page.

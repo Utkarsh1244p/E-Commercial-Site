@@ -12,4 +12,4 @@ bootstrap.css and style.css are css files that I used to make the site.
 
 img Folder consist all images, svg's and logos used in site
 
-Your site is live at https://utkarsh1244p.github.io/E-Commercial-Site/
+You can visit my site live at https://utkarsh1244p.github.io/E-Commercial-Site/

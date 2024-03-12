@@ -7,6 +7,7 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 
+
 /* HEADER */
 .header{
     height: 60px;
@@ -44,12 +45,14 @@ body{
     font-weight: 500;
 }
 
+
+
 /* IMAGES */
 .my_img{
     margin-bottom: 3px;
 }
 .boxs{
-    background-image: url(img/bgi.jpg);
+    background-image: url(../img/bgi.jpg);
     height: 300px;
     margin-top: 50px;
     box-shadow: 2px 5px 10px 6px rgba(0,0,0,0.5) ;
@@ -63,6 +66,21 @@ body{
     position: relative;
     top: 240px;
     left: 40px;
+}
+.btnn{
+    font-size: 20px;
+    border: none;
+    margin-bottom: 20px;
+    background-color: rgba(194, 50, 25, 0.768);
+    color: white;
+    padding: 5px;
+    border-radius: 10px;   
+}
+.btnn:hover{
+    box-shadow: 1px 2px 6px 3px rgba(0,0,0,0.5) ;
+    transition: .2s;
+    color: white;
+    background-color: rgb(1, 1, 43);
 }
 .btn{
     /* z-index: 4; */
@@ -91,20 +109,7 @@ body{
     transition: .2s;
     background-color: rgb(1, 1, 43);
 }
-.btnn{
-    font-size: 20px;
-    border: none;
-    background-color: rgba(194, 50, 25, 0.768);
-    color: white;
-    padding: 5px;
-    border-radius: 10px;   
-}
-.btnn:hover{
-    box-shadow: 1px 2px 6px 3px rgba(0,0,0,0.5) ;
-    transition: .2s;
-    color: white;
-    background-color: rgb(1, 1, 43);
-}
+
 .head{
     text-align: center;
     padding-top: 40px;
@@ -182,6 +187,9 @@ body{
     font-size:16px;
 }
 
+
+
+
 /* DETAILS PAGE */
 .client_container{
     height: 500px;
@@ -226,6 +234,11 @@ body{
     text-align: center;
     text-decoration: underline;
 }
+
+
+
+
+
 /* ABOUT PAGE */
 .about_container{
     padding-top: 70px;
@@ -251,6 +264,12 @@ body{
 }
 
 
+
+
+
+
+
+
 /* FOOTER */
 .directHome{
     list-style-type: none;
@@ -258,3 +277,86 @@ body{
 .directHome a{
     text-decoration: none;
 }
+
+
+
+
+
+/* OTHER CSS FROM dec1321.css */
+
+.containers{
+    padding: 0 140px;
+}
+.logo{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.col-1{
+    color: white;
+}
+.col-2{
+    color: white;
+}
+.col-3{
+    color: white;
+}
+.app{
+    /* width: 150px; */
+    height: 90px;
+}
+.footer{
+    justify-content: space-between;
+}
+.box{
+    display: flex;
+    flex-direction: row;
+}
+.one,.two{
+    display: flex;
+    flex-direction: column;
+}
+.apps{
+    width: 80px;
+    /* height: 80px; */
+}
+.partners{
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+
+
+
+.text{
+    color: gray;
+    border: rgb(223, 217, 217) 1px solid;
+}
+.sub-menu{
+    display: none;
+}
+.unorder ul li a:hover .sub-menu{
+    display: block;
+}
+
+.foot{
+    font-size: 12px;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 20px;
+    background-color: rgb(226, 218, 208);
+    align-items: center;
+}
+.a{
+    align-items: center;
+    position: relative;
+    top: 8px;
+}
+.log{
+    font-size: 14px;
+    color: rgb(76, 113, 20);
+}
+
+
+

@@ -5,9 +5,9 @@ This e-commerce site has been developed using HTML, CSS, PHP languages, and the 
 ## File Structure:
 
 ### HTML Files:
-1. **Home.php:** Contains the code for the home page.
-2. **Products.php:** Includes the code for the product page.
-3. **Contact.php:** Encompasses the code for the contact us page.
+1. **index.html:** Contains the code for the home page.
+2. **product.html:** Includes the code for the product page.
+3. **contact.html:** Encompasses the code for the contact us page.
 4. **About.php:** Holds the code for the about us page.
 
 ### CSS Files:

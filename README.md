@@ -1,15 +1,23 @@
-# E-Commercial-Site
-This is e-commerce site.In which I used Html, CSS, PHP langueges and CSS framework known as bootstrap .It is very simple looking website consisting 4 pages ie Home, Product, About Us, Contact Us and one login modal.This website consist of links which can direct you to facebook, instagram and linkden pages of 1stop brand.
 
-Html Files::
-Home.php : It consist code of home page.
-Products.php : It consist code of product page.
-Contact.php: It consist code of contact us page.
-About.php   : It consist code of abouts us page.
+#E-Commerce Site
+This e-commerce site has been developed using HTML, CSS, PHP languages, and the Bootstrap CSS framework. The website boasts a clean and minimalist design, featuring four essential pages: Home, Product, About Us, and Contact Us, as well as a convenient login modal.
 
-CSS Files::
-bootstrap.css and style.css are css files that I used to make the site.
+#File Structure:
+##HTML Files:
+Home.php: Contains the code for the home page.
+Products.php: Includes the code for the product page.
+Contact.php: Encompasses the code for the contact us page.
+About.php: Holds the code for the about us page.
 
-img Folder consist all images, svg's and logos used in site
+##CSS Files:
+bootstrap.css: The Bootstrap CSS framework used for styling.
+style.css: Custom CSS styles implemented for site aesthetics.
 
-You can visit my site live at https://utkarsh1244p.github.io/E-Commercial-Site/
+##Image Folder:
+The "img" folder contains all images, SVGs, and logos utilized throughout the site.
+
+#Usage:
+Clone the repository.
+Open the desired HTML file (Home.php, Products.php, Contact.php, or About.php) in a web browser to view the corresponding page.
+Explore the site's simple navigation and functionality.
+Utilize the login modal for user authentication.

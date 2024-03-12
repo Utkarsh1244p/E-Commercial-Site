@@ -3,9 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body{
     font-family: 'Open Sans', sans-serif;
 }
+
+
+
 
 /* HEADER */
 .header{
@@ -43,6 +47,11 @@ body{
     cursor: pointer;
     font-weight: 500;
 }
+
+
+
+
+
 
 /* IMAGES */
 .my_img{
@@ -111,6 +120,7 @@ body{
     font-size: 30px;
     font-weight: 100px;
 }
+
 .client_container{
     height: 500px;
     margin-top: 100px;
